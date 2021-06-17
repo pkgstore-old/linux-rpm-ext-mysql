@@ -55,61 +55,61 @@ META-package for install and configure MySQL.
 - UPD: Move to GitHub.
 - UPD: License.
 
-* Tue Nov 12 2019 Package Store <pkgstore@pm.me> - 1.0.3-100
+* Tue Nov 12 2019 Package Store <kitsune.solar@gmail.com> - 1.0.3-100
 - UPD: Directory names.
 
-* Sun Jul 28 2019 Package Store <pkgstore@pm.me> - 1.0.2-103
+* Sun Jul 28 2019 Package Store <kitsune.solar@gmail.com> - 1.0.2-103
 - UPD: SPEC-file.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.2-102
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.2-102
 - UPD: SPEC-file.
 - FIX: Systemd Drop-In.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.2-101
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.2-101
 - UPD: SPEC-file.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.2-100
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.2-100
 - NEW: Systemd config.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.1-110
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-110
 - UPD: MySQL config.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.1-109
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-109
 - UPD: MySQL config.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.1-108
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-108
 - UPD: MySQL config.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.1-107
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-107
 - UPD: MySQL config.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.1-106
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-106
 - UPD: MySQL config.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.1-105
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-105
 - UPD: MySQL config.
 
-* Fri Jul 05 2019 Package Store <pkgstore@pm.me> - 1.0.1-104
+* Fri Jul 05 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-104
 - UPD: MySQL config.
 
-* Fri Jul 05 2019 Package Store <pkgstore@pm.me> - 1.0.1-103
+* Fri Jul 05 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-103
 - UPD: MySQL config.
 
-* Fri Jul 05 2019 Package Store <pkgstore@pm.me> - 1.0.1-102
+* Fri Jul 05 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-102
 - UPD: SPEC-file.
 
-* Fri Jul 05 2019 Package Store <pkgstore@pm.me> - 1.0.1-101
+* Fri Jul 05 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-101
 - UPD: MySQL config.
 
-* Thu Jul 04 2019 Package Store <pkgstore@pm.me> - 1.0.1-100
+* Thu Jul 04 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-100
 - FIX: Config files.
 - UPD: SPEC-file.
 
-* Tue Jul 02 2019 Package Store <pkgstore@pm.me> - 1.0.0-102
+* Tue Jul 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-102
 - UPD: SPEC-file.
 
-* Mon Jul 01 2019 Package Store <pkgstore@pm.me> - 1.0.0-101
+* Mon Jul 01 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-101
 - UPD: MySQL config.
 
-* Sat Jun 22 2019 Package Store <pkgstore@pm.me> - 1.0.0-100
+* Sat Jun 22 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-100
 - Initial build.
