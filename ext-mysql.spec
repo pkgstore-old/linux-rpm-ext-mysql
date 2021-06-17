@@ -20,7 +20,7 @@ License:                        MIT
 Source10:                       my.cnf
 Source20:                       service.limits.conf
 
-Requires:                       mysql-community-server
+Requires:                       mysql-community-server ext-system
 
 %description
 META-package for install and configure MySQL.
