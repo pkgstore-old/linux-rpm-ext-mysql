@@ -9,7 +9,7 @@
 %global d_cnf                   %{_sysconfdir}/mysql
 %global d_service               %{_sysconfdir}/systemd/system/mysqld.service.d
 
-%global release_prefix          100
+%global release_prefix          101
 
 Name:                           ext-mysql
 Version:                        1.0.4
@@ -53,6 +53,9 @@ META-package for install and configure MySQL.
 
 
 %changelog
+* Fri Jun 18 2021 Package Store <kitsune.solar@gmail.com> - 1.0.4-101
+- UPD: New build for latest changes.
+
 * Thu Jun 17 2021 Package Store <kitsune.solar@gmail.com> - 1.0.4-100
 - UPD: Move to GitHub.
 - UPD: License.
